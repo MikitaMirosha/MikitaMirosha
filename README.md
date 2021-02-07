@@ -2,7 +2,7 @@
  <abc>
   <br>Hi, I'm Nikita.<br>
   <br> I'm Android developer. <br> <br>
-  --------------------------------------------------------------------------------------------------
+  <hr>
  </abc>
 </h3> 
 <h4 align="left">Primary languages:</h4>
