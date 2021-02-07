@@ -1,9 +1,8 @@
 <h3 align="left">
  <abc>
-  <br>👋 Hi, I'm Nikita.<br>
+  <br>Hi, I'm Nikita.<br>
   <br> I'm Android developer. <br> <a href="https://developer.android.com/docs" target="_blank"> 
-  <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/android.svg" alt="android" width="70" height="70"/> </a>
-  <br> 
+  --------------------------------------------------------------------------------------------------
  </abc>
 </h3> 
 <h4 align="left">Primary languages:</h4>
