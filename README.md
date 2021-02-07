@@ -11,13 +11,13 @@
  <h4 align="left">Libraries:</h4>
  <ul>
   <li>Moxy</li>
-  <li>RxJava2</li>
   <li>Glide</li>
-  <li>Kodein</li>
-  <li>Retrofit</li>
-  <li>OkHttp</li>
   <li>Realm</li>
+  <li>Kodein</li>
+  <li>OkHttp</li>
+  <li>RxJava2</li>
   <li>FragNav</li>
+  <li>Retrofit</li>
 </ul>
  <h4 align="left">Other languages:</h4>
   <a href="https://docs.python.org/3/" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/python.svg" alt="python" width="40" height="40"/> </a>
