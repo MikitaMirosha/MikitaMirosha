@@ -6,8 +6,11 @@
     <img src="https://media.giphy.com/media/TqsbbYf3ng5na/giphy.gif" alt="greeting image" width="500" height="400">
  </abc>
 </h3> 
-<h4 align="left">Primary language:</h4>
+<h4 align="left">Primary languages:</h4>
 <p align="left">
     <a href="https://kotlinlang.org" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
- <br>
+ <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/java.svg" alt="kotlin" width="40" height="40"/> </a>
  <h4 align="left">Other languages:</h4>
+ <a href="https://kotlinlang.org" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
+ <a href="https://kotlinlang.org" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
+ <a href="https://kotlinlang.org" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/kotlin.svg" alt="kotlin" width="40" height="40"/> </a>
