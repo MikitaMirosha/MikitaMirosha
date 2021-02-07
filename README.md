@@ -1,6 +1,7 @@
 <h3 align="left">
   Hi, I'm Nikita
-  I'm Android developer <br>
+  <br>
+  I'm Android developer
   <hr>
 </h3> 
 <h4 align="left">Primary language:</h4>
