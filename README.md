@@ -1,9 +1,7 @@
 <h3 align="left">
- <abc>
   <br>Hi, I'm Nikita.<br>
-  <br> I'm Android developer. <br> <br>
+  <br> I'm Android developer. <br>
   <hr>
- </abc>
 </h3> 
 <h4 align="left">Primary languages:</h4>
 <p align="left">
