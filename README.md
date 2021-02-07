@@ -1,7 +1,8 @@
 <h3 align="left">
  <abc>
   <br>👋 Hi, I'm Nikita.<br>
-  <br> I'm Android developer. <a href="https://developer.android.com/docs" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/android.svg" alt="android" width="70" height="70"/> </a>
+  <br> I'm Android developer. <br> <a href="https://developer.android.com/docs" target="_blank"> 
+  <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/android.svg" alt="android" width="70" height="70"/> </a>
   <br> 
   <br>
     <img src="https://media.giphy.com/media/TqsbbYf3ng5na/giphy.gif" alt="greeting image" width="500" height="400">
