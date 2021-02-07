@@ -1,7 +1,7 @@
 <h3 align="left">
  <abc>
   <br>Hi, I'm Nikita.<br>
-  <br> I'm Android developer. <br> <a href="https://developer.android.com/docs" target="_blank"> 
+  <br> I'm Android developer. <br> <br>
   --------------------------------------------------------------------------------------------------
  </abc>
 </h3> 
