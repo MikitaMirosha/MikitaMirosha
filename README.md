@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Nikita.<br>
   <br> I'm Android developer. <br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+    <img src="https://giphy.com/gifs/drugs-rock-TqsbbYf3ng5na" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
 <h3 align="left">Languages and Tools:</h3>
