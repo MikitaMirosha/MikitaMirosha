@@ -27,4 +27,6 @@
  <hr>
 <h4 align="left">Education:</h4>
 Belarusian State University of Informatics and Radioelectronics <br>
-Department of Electronic Computing Machines
+Faculty of Computer Systems and Networks <br>
+Department of Electronic Computing Machines <br>
+2018 - 2022
