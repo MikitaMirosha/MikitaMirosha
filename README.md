@@ -25,3 +25,7 @@
   <a href="https://devdocs.io/c/" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/c.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://devdocs.io/cpp/" target="_blank"> <img src="https://github.com/NikitaMirosha/NikitaMirosha/blob/main/icons/c%2B%2B.svg" alt="c++" width="40" height="40"/> </a>
  
+<h4 align="left">Education:</h4>
+<br>
+Belarusian State University of Informatics and Radioelectronics
+Department of Electronic Computing Machines
