@@ -1,5 +1,5 @@
 <h3 align="left">
-  Hi, I'm Nikita
+  Hi, I'm Mikita
   <br>
   <br>
   I'm Android developer
